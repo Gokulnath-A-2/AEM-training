@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@aem-vite/vite-aem-plugin": "^3.0.0"
+  }
+}
